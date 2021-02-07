@@ -1,3 +1,4 @@
+def second_hash_challenge 
 epic_tragedy = {
    :montague => {
       :patriarch => {},
@@ -12,3 +13,4 @@ epic_tragedy = {
       :heroine_friends => []
    }
 }
+end 
